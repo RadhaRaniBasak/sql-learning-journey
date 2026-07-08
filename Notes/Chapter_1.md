@@ -56,7 +56,6 @@ Relational systems maintain data isolation through a nested structural hierarchy
 
 
 
-$$\text{Server Instance} \longrightarrow \text{Database(s)} \longrightarrow \text{Schema(s)} \longrightarrow \text{Objects (Tables/Views)} \longrightarrow \text{Attributes (Columns) \& Records (Rows)}$$
 
 * **Server Instance:** The master operating environment running a specific database engine lifecycle process on a local or cloud host.
 * **Database:** An isolated, top-level administrative boundary partition nested inside an instance, dedicated to a specific application stack or company division.
